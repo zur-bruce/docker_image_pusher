@@ -1,1 +1,2 @@
 langgenius/dify-web
+langgenius/dify-web:latest
