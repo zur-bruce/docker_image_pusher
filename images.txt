@@ -1,1 +1,1 @@
-alpine:latest
+langgenius/dify-web:latest
