@@ -1,1 +1,6 @@
 langgenius/dify-api
+langgenius/dify-web
+postgres
+redis
+semitechnologies/weaviate
+nginx
