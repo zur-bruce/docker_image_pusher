@@ -1,1 +1,1 @@
-nginx
+langgenius/dify-api
