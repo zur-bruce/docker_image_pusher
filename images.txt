@@ -1,1 +1,1 @@
-alpine
+alpine:lastest
